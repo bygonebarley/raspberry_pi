@@ -1,0 +1,9 @@
+pi@10.7.151.250
+
+IP = 10.7.151.250
+
+WIFI = NDGuest
+
+ssh pi@10.7.151.250
+
+Use password to sign in
